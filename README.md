@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bmitlLjS)
-# ここにゲームのタイトルを記述する
-フルーツバスケット
+# フルーツバスケット
+
 ## ゲームの内容
 フルーツを回収してハイスコアを目指そう！
 
@@ -11,5 +11,6 @@
 
 ## 操作説明
 例
-- AとDキーで移動
+- AとDキーで左右に移動
 - スペースキーを押している間段ボールが開き、フルーツを獲得できる
+- レンガのブロックは回避しよう
